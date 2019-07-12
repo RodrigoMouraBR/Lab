@@ -1,0 +1,12 @@
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Bus/bin/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.Bus.deps.json
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Bus/bin/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.Bus.dll
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Bus/bin/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.Bus.pdb
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Bus/bin/Debug/netstandard2.0/Eventos.IO.Domain.Core.dll
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Bus/bin/Debug/netstandard2.0/Eventos.IO.Domain.Core.pdb
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Bus/obj/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.Bus.csproj.CoreCompileInputs.cache
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Bus/obj/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.Bus.AssemblyInfoInputs.cache
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Bus/obj/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.Bus.AssemblyInfo.cs
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Bus/obj/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.Bus.csproj.CopyComplete
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Bus/obj/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.Bus.dll
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Bus/obj/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.Bus.pdb
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Bus/obj/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.Bus.csprojAssemblyReference.cache

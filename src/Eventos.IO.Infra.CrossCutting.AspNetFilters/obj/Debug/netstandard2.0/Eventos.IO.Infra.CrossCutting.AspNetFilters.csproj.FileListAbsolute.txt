@@ -1,0 +1,9 @@
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.AspNetFilters/bin/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.AspNetFilters.deps.json
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.AspNetFilters/bin/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.AspNetFilters.dll
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.AspNetFilters/bin/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.AspNetFilters.pdb
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.AspNetFilters/obj/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.AspNetFilters.csprojAssemblyReference.cache
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.AspNetFilters/obj/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.AspNetFilters.csproj.CoreCompileInputs.cache
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.AspNetFilters/obj/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.AspNetFilters.AssemblyInfoInputs.cache
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.AspNetFilters/obj/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.AspNetFilters.AssemblyInfo.cs
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.AspNetFilters/obj/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.AspNetFilters.dll
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.AspNetFilters/obj/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.AspNetFilters.pdb

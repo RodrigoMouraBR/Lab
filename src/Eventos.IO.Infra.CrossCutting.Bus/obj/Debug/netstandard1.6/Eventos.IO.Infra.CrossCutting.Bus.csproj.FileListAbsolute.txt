@@ -1,0 +1,11 @@
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Bus\bin\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Bus.deps.json
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Bus\bin\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Bus.dll
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Bus\bin\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Bus.pdb
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Bus\bin\Debug\netstandard1.6\Eventos.IO.Domain.Core.dll
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Bus\bin\Debug\netstandard1.6\Eventos.IO.Domain.Core.pdb
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Bus\obj\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Bus.csprojAssemblyReference.cache
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Bus\obj\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Bus.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Bus\obj\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Bus.AssemblyInfo.cs
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Bus\obj\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Bus.csproj.CopyComplete
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Bus\obj\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Bus.dll
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Bus\obj\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Bus.pdb

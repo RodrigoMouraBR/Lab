@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+<PropertyGroup>
+    <PackageTargetFallback>$(PackageTargetFallback);portable-net45+win8+wp8+wpa81;</PackageTargetFallback>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <UserSecretsId>EventosSecrets</UserSecretsId>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.1.1" />
+    <PackageReference Include="Elmah.Io.AspNetCore" Version="3.6.63" />
+    <PackageReference Include="Elmah.Io.Extensions.Logging" Version="3.4.38" />
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.7.1" />
+    <PackageReference Include="Microsoft.AspNetCore" Version="2.2.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Cookies" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="2.2.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="2.2.0" />
+   <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.2.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer.Design" Version="2.2.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.2.6" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="2.2.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.3" />
+    <DotNetCliToolReference Include="Microsoft.Extensions.SecretManager.Tools" Version="2.0.2" />
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Eventos.IO.Infra.CrossCutting.AspNetFilters\Eventos.IO.Infra.CrossCutting.AspNetFilters.csproj" />
+    <ProjectReference Include="..\Eventos.IO.Application\Eventos.IO.Application.csproj" />
+    <ProjectReference Include="..\Eventos.IO.Infra.CrossCutting.Bus\Eventos.IO.Infra.CrossCutting.Bus.csproj" />
+    <ProjectReference Include="..\Eventos.IO.Infra.CrossCutting.Identity\Eventos.IO.Infra.CrossCutting.Identity.csproj" />
+    <ProjectReference Include="..\Eventos.IO.Infra.CrossCutting.IoC\Eventos.IO.Infra.CrossCutting.IoC.csproj" />
+    <ProjectReference Include="..\Eventos.IO.Infra.Data\Eventos.IO.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

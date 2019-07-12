@@ -1,0 +1,9 @@
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Domain.Core/bin/Debug/netstandard2.0/Eventos.IO.Domain.Core.deps.json
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Domain.Core/bin/Debug/netstandard2.0/Eventos.IO.Domain.Core.dll
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Domain.Core/bin/Debug/netstandard2.0/Eventos.IO.Domain.Core.pdb
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Domain.Core/obj/Debug/netstandard2.0/Eventos.IO.Domain.Core.csprojAssemblyReference.cache
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Domain.Core/obj/Debug/netstandard2.0/Eventos.IO.Domain.Core.csproj.CoreCompileInputs.cache
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Domain.Core/obj/Debug/netstandard2.0/Eventos.IO.Domain.Core.AssemblyInfoInputs.cache
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Domain.Core/obj/Debug/netstandard2.0/Eventos.IO.Domain.Core.AssemblyInfo.cs
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Domain.Core/obj/Debug/netstandard2.0/Eventos.IO.Domain.Core.dll
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Domain.Core/obj/Debug/netstandard2.0/Eventos.IO.Domain.Core.pdb

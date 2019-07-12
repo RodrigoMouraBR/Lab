@@ -1,0 +1,14 @@
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Identity\bin\Debug\netstandard1.6\appsettings.json
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Identity\bin\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Identity.deps.json
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Identity\bin\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Identity.dll
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Identity\bin\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Identity.pdb
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Identity\bin\Debug\netstandard1.6\Eventos.IO.Domain.Core.dll
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Identity\bin\Debug\netstandard1.6\Eventos.IO.Domain.dll
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Identity\bin\Debug\netstandard1.6\Eventos.IO.Domain.pdb
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Identity\bin\Debug\netstandard1.6\Eventos.IO.Domain.Core.pdb
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Identity\obj\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Identity.csprojAssemblyReference.cache
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Identity\obj\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Identity.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Identity\obj\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Identity.AssemblyInfo.cs
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Identity\obj\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Identity.csproj.CopyComplete
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Identity\obj\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Identity.dll
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.Identity\obj\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Identity.pdb

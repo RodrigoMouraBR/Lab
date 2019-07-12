@@ -1,0 +1,15 @@
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Identity/bin/Debug/netstandard2.0/appsettings.json
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Identity/bin/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.Identity.deps.json
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Identity/bin/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.Identity.dll
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Identity/bin/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.Identity.pdb
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Identity/bin/Debug/netstandard2.0/Eventos.IO.Domain.Core.dll
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Identity/bin/Debug/netstandard2.0/Eventos.IO.Domain.dll
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Identity/bin/Debug/netstandard2.0/Eventos.IO.Domain.pdb
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Identity/bin/Debug/netstandard2.0/Eventos.IO.Domain.Core.pdb
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Identity/obj/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.Identity.csprojAssemblyReference.cache
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Identity/obj/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.Identity.csproj.CoreCompileInputs.cache
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Identity/obj/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.Identity.AssemblyInfoInputs.cache
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Identity/obj/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.Identity.AssemblyInfo.cs
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Identity/obj/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.Identity.csproj.CopyComplete
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Identity/obj/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.Identity.dll
+/Users/rodrigomoura/Documents/yamaha2/src/Eventos.IO.Infra.CrossCutting.Identity/obj/Debug/netstandard2.0/Eventos.IO.Infra.CrossCutting.Identity.pdb

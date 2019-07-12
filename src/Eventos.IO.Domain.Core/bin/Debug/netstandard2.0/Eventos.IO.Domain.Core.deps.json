@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "f8f9a6e5eef0fe5880f878a09e2d3b0d43f1e751"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "Eventos.IO.Domain.Core/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "8.4.0",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "Eventos.IO.Domain.Core.dll": {}
+        }
+      },
+      "FluentValidation/8.4.0": {
+        "dependencies": {
+          "System.ComponentModel.Annotations": "4.4.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.4.0.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "System.ComponentModel.Annotations/4.4.1": {
+        "runtime": {
+          "lib/netstandard2.0/System.ComponentModel.Annotations.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.6.25921.2"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eventos.IO.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentValidation/8.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/VApywgD2sqD3aB1tzub6SIItmwxXN0D5yAiP3kuFHmjYO1W+Ryi531/m4O03/hlfcYrBgewDJn7Jd1Xk0vTdw==",
+      "path": "fluentvalidation/8.4.0",
+      "hashPath": "fluentvalidation.8.4.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0kU1MazqUrAAnTZ0A9v1zSr6K08ayp5/C1G1lVhynsch+VrGyihOf8VZKkhNv/OUUalyGEi+FHsxorVoMb0wrQ==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "System.ComponentModel.Annotations/4.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ToiYqSCioqhtspq2O/jYKtyTC/T0uwWHBTYlzCi6PRbSSHArN1IaRWeHffDamvms5sye5FDUWCfNZgubQpNRsA==",
+      "path": "system.componentmodel.annotations/4.4.1",
+      "hashPath": "system.componentmodel.annotations.4.4.1.nupkg.sha512"
+    }
+  }
+}

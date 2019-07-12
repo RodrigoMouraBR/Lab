@@ -1,0 +1,7 @@
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Domain.Core\bin\Debug\netstandard1.6\Eventos.IO.Domain.Core.deps.json
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Domain.Core\bin\Debug\netstandard1.6\Eventos.IO.Domain.Core.dll
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Domain.Core\bin\Debug\netstandard1.6\Eventos.IO.Domain.Core.pdb
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Domain.Core\obj\Debug\netstandard1.6\Eventos.IO.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Domain.Core\obj\Debug\netstandard1.6\Eventos.IO.Domain.Core.AssemblyInfo.cs
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Domain.Core\obj\Debug\netstandard1.6\Eventos.IO.Domain.Core.dll
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Domain.Core\obj\Debug\netstandard1.6\Eventos.IO.Domain.Core.pdb

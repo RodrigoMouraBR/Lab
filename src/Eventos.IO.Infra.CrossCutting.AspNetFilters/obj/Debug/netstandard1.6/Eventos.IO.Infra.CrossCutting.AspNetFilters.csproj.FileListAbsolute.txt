@@ -1,0 +1,7 @@
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.AspNetFilters\bin\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.AspNetFilters.deps.json
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.AspNetFilters\bin\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.AspNetFilters.dll
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.AspNetFilters\bin\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.AspNetFilters.pdb
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.AspNetFilters\obj\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.AspNetFilters.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.AspNetFilters\obj\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.AspNetFilters.AssemblyInfo.cs
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.AspNetFilters\obj\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.AspNetFilters.dll
+C:\Users\rodri\Downloads\yamaha2\src\Eventos.IO.Infra.CrossCutting.AspNetFilters\obj\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.AspNetFilters.pdb
